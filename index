@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="qism_1">
+            <div class="rasm_1"></div>
+            <div class="qator_1">
+                <div class="menu_1">
+                    <!-- <div class="poisk">
+                        <img src="/poisk.png" width="30px" alt="">
+                    </div> -->
+                    <!-- <div class="shop"></div> -->
+                    <p class="sign_up">Sign Up</p>
+                    <p class="sign_in">Sign In</p>
+                </div>
+                <div class="bosh">
+                <h1 class="sarlavha">Lorem, ipsum dolor.</h1>
+                <p class="matn_1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam optio, blanditiis recusandae ducimus assumenda ea sequi numquam animi amet, itaque sapiente, est deserunt at similique.</p>
+            </div>
+                <div class="prenext">
+                    <div class="prev">
+                        <ul>
+                            <li class="prne">Previous</li>
+                        </ul>
+                        <p id="prr">Lorem Ipsum</p>
+                    </div>
+                    <div class="next">
+                        <ul>
+                            <li class="prne">Next</li>
+                        </ul>
+                        <p id="nxx">Lorem Ipsum</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="qism_2">
+           <div class="jadval">
+            <div class="piece">
+                <p class="sarl_2 bir"><img id="deliv" src="/images/delivery.png" alt="">Fast Delivery</p>
+                <p class="jadval_matn">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus dolorum harum provident hic debitis voluptatum inventore cumque incidunt quo voluptate! Accusamus eos alias amet dicta?</p>
+            </div>
+            <div class="piece">
+                <p class="sarl_2 ikki"><img id="deliv" src="/images/headphone.png" alt="">Great Customer Servise</p>
+                <p class="jadval_matn">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus dolorum harum provident hic debitis voluptatum inventore cumque incidunt quo voluptate! Accusamus eos alias amet dicta?</p>
+            </div>
+            <div class="piece">
+                <p class="sarl_2 uch"><img id="deliv" src="/images/leaf.png" alt="">Fast Delivery</p>
+                <p class="jadval_matn">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus dolorum harum provident hic debitis voluptatum inventore cumque incidunt quo voluptate! Accusamus eos alias amet dicta?</p>
+            </div>
+            <div class="piece">
+                <p class="sarl_2 tort"><img id="deliv" src="/images/cash.png" alt="">Fast Delivery</p>
+                <p class="jadval_matn">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus dolorum harum provident hic debitis voluptatum inventore cumque incidunt quo voluptate! Accusamus eos alias amet dicta?</p>
+            </div>
+           </div>
+        </div>
+        <div class="qism_3">
+            <div class="filter">
+            <p class="fp">Featured Plants</p>
+            <div class="chf"><p>Cheaper First</p> <img src="/images/down.png" alt="" id="down"></div></div>
+            <hr style="margin-top: 25px;width: 90%;background: #999;"/>
+                    <div class="mahsulotlar">
+                        <div class="mahsulot">
+                            <p class="mahsulot_nomi">Lorem ipsum</p>
+                            <p class="mahsulot_malumot">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, natus.</p>
+                        </div>
+                        <div class="mahsulot">
+                             <p class="mahsulot_nomi">Lorem ipsum</p>
+                            <p class="mahsulot_malumot">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, natus.</p>
+                        </div>
+                        <div class="mahsulot">
+                             <p class="mahsulot_nomi">Lorem ipsum</p>
+                            <p class="mahsulot_malumot">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, natus.</p>
+                        </div>
+                        <div class="mahsulot">
+                             <p class="mahsulot_nomi">Lorem ipsum</p>
+                            <p class="mahsulot_malumot">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, natus.</p>
+                        </div>
+                        <div class="mahsulot">
+                             <p class="mahsulot_nomi">Lorem ipsum</p>
+                            <p class="mahsulot_malumot">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, natus.</p>
+                        </div>
+                    </div>
+        </div>
+        <div class="qism_4">
+            <div class="uc_1">
+                <div class="qism4_buy"><p class="buy">Buy more plants, it helps to be relaxed</p>
+                <p class="buyinfo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, neque est perferendis cumque ex quas deleniti! Ullam quia voluptatem velit iste repudiandae, natus molestias at, ipsa tempora harum consequuntur necessitatibus.</p></div>
+                <div class="photo3"><img src="/images/photo3.jpg" width="500px" alt=""></div>
+            </div>
+            <div class="uc_2">
+                <div class="photo2"><img width="500px" src="/images/photo2.jpg" alt=""></div>
+            </div>
+        </div>
+        <div class="qism_5">
+            <div class="qism5_1">
+                <div class="q5_1"><p class="get">Get your favourites plant on our shop now</p>
+                <p class="visit">Visit Shop</p></div>
+                <div class="q5_2"><img width="300px" src="/plants/plant2.png" alt=""></div>
+            </div>
+        </div>
+        <hr>
+        <div class="footer">
+            <div class="ft_1">
+                <p class="ft_1_1">PLANTS</p>
+                <p class="ft_2_2">Plants House</p>
+                <p class="ft_1_3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam autem adipisci nulla perspiciatis odio nobis eligendi, facere cum magni reprehenderit.</p>
+            </div>
+            <div class="ft_2">
+                <p class="ft_2_2">Lorem, ipsum.</p>
+                <p class="ft_2_1">Lorem, ipsum.</p>
+                <p class="ft_2_1">Lorem, ipsum.</p>
+            </div>
+            <div class="ft_3">
+                <p class="ft_2_2">Lorem, ipsum.</p>
+                <p class="ft_2_1">Lorem, ipsum.</p>
+                <p class="ft_2_1">Lorem, ipsum.</p>
+            </div>
+            <div class="ft_4">
+                <p class="ft_4_1">Lorem, ipsum dolor.</p>
+                <div id="text">Lorem, ipsum dolor.</div>
+                <button class="submit">Submit</button>
+            </div>
+        </div>
+        <hr style="background: #235656;height: 5px;">
+        <footer>Botir Jasurovich &copy;</footer>
+    </div>
+
+</body>
+</html>
