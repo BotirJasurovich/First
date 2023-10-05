@@ -1,0 +1,333 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+body{
+    background:#0003;
+}
+.container
+{
+    width: 1140px;
+    margin: 50px auto;
+    background-color: #fff;
+    height: 100%;
+
+}
+.qism_1
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 650px;
+}
+.rasm_1
+{
+    background-image: url(/images/photo1.jpg);
+    width: 970px;
+    background-size: 100% 100%;
+}
+.menu_1
+{
+    display: flex;
+    align-items: right;
+    justify-content:space-between;
+    padding: 20px 0;
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 450px;
+}
+.sign_up
+{
+    color: #235656;
+    width: 125px;
+    padding: 20px;
+}
+.sign_in
+{
+    background: #235656;
+    color: #fff;
+    width: 125px;
+    padding: 20px;
+}
+.bosh
+{
+    margin: 50px;
+}
+.sarlavha
+{
+    color: #235656;
+    font-size: 75px;
+}
+.matn_1
+{
+    color: #444;
+}
+.prenext
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    height: 125px;
+}
+.prev
+{
+    width: 50%;
+}
+.next
+{
+    background: #237676;
+    width: 50%;
+}
+#prr, #nxx
+{
+    font-size: 35px;
+    margin-top: 0;
+    text-align: center;
+}
+#prr
+{
+    color: #235656;
+}
+#nxx
+{
+    color: #fff;
+}
+.prenext
+{
+    color: #444;
+}
+
+
+.jadval
+{
+    border: none;
+    margin: 25px;
+    display: flex;
+}
+.piece
+{
+    border: 1px solid #999;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 0 #000;
+}
+.piece:hover
+{
+    scale: 1.1;
+    transition: 1s;
+}
+.jadval_matn
+{
+    font-size: xx-small;
+    color: #555;
+}
+.sarl_2
+{
+    color: #235656;
+}
+#deliv
+{
+    width: 20px;
+    margin-right: 5px;
+}
+.filter
+{
+    display: flex;
+    height: 20px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 40px;
+}
+#down
+{
+    width: 20px;
+    height: 15px;
+}
+.chf
+{
+    border: 1px solid #aaa;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    cursor: pointer;
+    width: 175px;
+}
+.mahsulotlar
+{
+    display: flex;
+    justify-content: space-around;
+}
+.mahsulot
+{
+    width: 200px;
+    background-image: url(/plants/plant.png);
+    background-size: 100% 100%;
+    height: 300px;
+    border: 2px solid #333;
+    box-shadow: 5px 5px 5px 0 #000;
+    padding-top: 130px !important;
+    padding: 5px;
+}
+.mahsulot:hover .mahsulot_nomi,.mahsulot:hover .mahsulot_malumot
+{
+    opacity: 0;
+    transition: 1s;
+}
+.mahsulot:hover
+{
+    scale: 1.1;
+    transition: 1s;
+}
+.mahsulot_nomi
+{
+    font-size: 25px;
+    color: #237676;
+    text-shadow:0 0 1px #000,0 0 3px #fff, 0 0 5px #237676;
+}
+.mahsulot_malumot
+{
+    color: #000;
+    background: #9993;
+    text-shadow:0 0 2.5px #fff,0 0 3px #fff, 0 0 5px #aaa;
+}
+.qism_4
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    margin-top: 50px;
+}
+.uc_1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.qism4_buy
+{
+    width: 500px;
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+    margin-top: -25px;
+}
+.buy
+{
+    font-size: 50px;
+}
+.buyinfo
+{
+    color: #777;
+}
+.uc_2
+{
+    height: 100px;
+}
+.qism5_1
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    background-color: #7774;
+    margin: 50px;
+    height: 100%;
+}
+.get
+{
+    font-size: 65px;
+    text-align: left;
+}
+.visit
+{
+    background-color: #235656;
+    color: #fff;
+    width: 200px;
+    font-size: 15px;
+    padding: 10px 0;
+    text-align: center;
+}
+.q5_1
+{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.footer
+{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 25px;
+}
+.text
+{
+    height: 25px;
+    color: #777;
+}
+.ft_1, .ft_4
+{
+    width: 30%;
+}
+.ft_2_2
+{
+    font-size: large;
+}
+.ft_2_1
+{
+    font-size: medium;
+    font-weight: 400;
+}
+.ft_1_1
+{
+    font-size: 45px;
+    margin-top: 0;
+    color: #235656;
+}
+.ft_1_3
+{
+    font-size: small;
+    color: #777;
+}
+#text
+{
+    border: 1px solid #aaa;
+    padding: 5px;
+    width: 60%;
+    color: #aaa;
+}
+.ft_1,.ft_2,.ft_3,.ft_4
+{
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.submit
+{
+    padding: 10px 5px;
+    font-size: 20px;
+    color: #fff;
+    background: #235656;
+}
+footer
+{
+    margin-top: 2px;
+    text-align: center;
+    padding: 5px 0 10px 0;
+    background: #235656;
+    font-size: 20px;
+    color: #fff;
+}
+/* .poisk
+{
+    background-image: url(/poisk.png);
+    background-size: 25px 25px;
+    width: 25px;
+    height: 25px;
+} */
